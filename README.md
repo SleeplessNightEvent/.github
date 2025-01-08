@@ -1,4 +1,4 @@
-# README: Sleepless Night Association GitHub Organization
+# Sleepless Night Association
 
 ## 🌙 Welcome to the Sleepless Night GitHub Organization!
 
